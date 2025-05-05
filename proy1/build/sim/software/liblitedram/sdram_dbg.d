@@ -1,0 +1,58 @@
+sdram_dbg.o: \
+ /mnt/c/WINDOWS/system32/litex/litex/litex/soc/software/liblitedram/sdram_dbg.c \
+ /mnt/c/WINDOWS/system32/litex/litex/litex/soc/software/liblitedram/sdram_dbg.h \
+ /home/jahs96/proyectos/proyecto1-2025/proyecto1-2025/proy1/build/sim/software/include/generated/csr.h \
+ /home/jahs96/proyectos/proyecto1-2025/proyecto1-2025/proy1/build/sim/software/include/generated/soc.h \
+ /mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/stdint.h \
+ /mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/machine/_default_types.h \
+ /mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/sys/features.h \
+ /home/jahs96/proyectos/proyecto1-2025/proyecto1-2025/proy1/build/sim/software/include/../libc/picolibc.h \
+ /mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/sys/_intsup.h \
+ /mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/sys/_stdint.h \
+ /mnt/c/WINDOWS/system32/litex/litex/litex/soc/cores/cpu/vexriscv/system.h \
+ /mnt/c/WINDOWS/system32/litex/litex/litex/soc/cores/cpu/vexriscv/csr-defs.h \
+ /mnt/c/WINDOWS/system32/litex/litex/litex/soc/software/include/hw/common.h \
+ /mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/string.h \
+ /mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/_ansi.h \
+ /mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/newlib.h \
+ /mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/sys/config.h \
+ /mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/machine/ieeefp.h \
+ /usr/lib/gcc/riscv64-unknown-elf/10.2.0/include/float.h \
+ /mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/sys/cdefs.h \
+ /usr/lib/gcc/riscv64-unknown-elf/10.2.0/include/stddef.h \
+ /mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/sys/_locale.h \
+ /mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/strings.h \
+ /mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/sys/_types.h \
+ /mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/machine/_types.h \
+ /mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/sys/string.h \
+ /mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/tinystdio/stdio.h \
+ /mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/inttypes.h \
+ /usr/lib/gcc/riscv64-unknown-elf/10.2.0/include/stdarg.h
+/mnt/c/WINDOWS/system32/litex/litex/litex/soc/software/liblitedram/sdram_dbg.h:
+/home/jahs96/proyectos/proyecto1-2025/proyecto1-2025/proy1/build/sim/software/include/generated/csr.h:
+/home/jahs96/proyectos/proyecto1-2025/proyecto1-2025/proy1/build/sim/software/include/generated/soc.h:
+/mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/stdint.h:
+/mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/machine/_default_types.h:
+/mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/sys/features.h:
+/home/jahs96/proyectos/proyecto1-2025/proyecto1-2025/proy1/build/sim/software/include/../libc/picolibc.h:
+/mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/sys/_intsup.h:
+/mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/sys/_stdint.h:
+/mnt/c/WINDOWS/system32/litex/litex/litex/soc/cores/cpu/vexriscv/system.h:
+/mnt/c/WINDOWS/system32/litex/litex/litex/soc/cores/cpu/vexriscv/csr-defs.h:
+/mnt/c/WINDOWS/system32/litex/litex/litex/soc/software/include/hw/common.h:
+/mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/string.h:
+/mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/_ansi.h:
+/mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/newlib.h:
+/mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/sys/config.h:
+/mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/machine/ieeefp.h:
+/usr/lib/gcc/riscv64-unknown-elf/10.2.0/include/float.h:
+/mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/sys/cdefs.h:
+/usr/lib/gcc/riscv64-unknown-elf/10.2.0/include/stddef.h:
+/mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/sys/_locale.h:
+/mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/strings.h:
+/mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/sys/_types.h:
+/mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/machine/_types.h:
+/mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/sys/string.h:
+/mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/tinystdio/stdio.h:
+/mnt/c/WINDOWS/system32/litex/pythondata-software-picolibc/pythondata_software_picolibc/data/newlib/libc/include/inttypes.h:
+/usr/lib/gcc/riscv64-unknown-elf/10.2.0/include/stdarg.h:
